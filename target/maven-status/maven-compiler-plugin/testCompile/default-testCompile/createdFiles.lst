@@ -1,0 +1,10 @@
+com\iNetBanking\utilities\ExcelUtils.class
+com\iNetBanking\pageObject\AddCustomerPage.class
+com\iNetBanking\pageObject\LoginPage.class
+com\iNetBanking\utilities\ReadConfig.class
+com\iNetBanking\genricLibrary\BaseClass.class
+com\iNetBanking\testcases\TC_AddNewCustomer_003.class
+com\iNetBanking\testcases\TC_LoginTestDDT_002.class
+com\iNetBanking\testcases\TC_LoginTest_001.class
+com\iNetBanking\genricLibrary\CommonLibrary.class
+com\iNetBanking\utilities\Reporting.class
